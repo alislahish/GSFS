@@ -1,0 +1,30 @@
+{
+  "name": "gsfs",
+  "version": "1.0.0",
+  "description": " Generalized Secondary Fibonacci Sequences",
+  "main": "src/GSFS.js",
+  "module": "src/main.js",
+  "scripts": {
+    "test": ". ./src/example.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alislahish/GSFS.git"
+  },
+  "keywords": [
+    "GSFS",
+    "metallic",
+    "mean",
+    "fibonacci",
+    "ratio"
+  ],
+  "author": "anwarhahjjeffersongeorge@gmail.com",
+  "license": "DAUCWL",
+  "bugs": {
+    "url": "https://github.com/alislahish/GSFS/issues"
+  },
+  "homepage": "https://github.com/alislahish/GSFS#readme",
+  "dependencies": {
+    "esm": "^3.0.51"
+  }
+}
