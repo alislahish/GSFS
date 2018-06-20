@@ -1,6 +1,6 @@
 {
   "name": "gsfs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": " Generalized Secondary Fibonacci Sequences",
   "main": "src/index.js",
   "module": "src/GSFS.js",
