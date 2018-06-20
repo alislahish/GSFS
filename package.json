@@ -2,8 +2,8 @@
   "name": "gsfs",
   "version": "1.0.0",
   "description": " Generalized Secondary Fibonacci Sequences",
-  "main": "src/GSFS.js",
-  "module": "src/main.js",
+  "main": "src/index.js",
+  "module": "src/GSFS.js",
   "scripts": {
     "test": ". ./src/example.html"
   },
