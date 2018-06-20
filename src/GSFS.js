@@ -167,7 +167,7 @@ function metallicRatioByFormula(params){
 }
 
 
-export default {
+export {
   metallicRatioByFormula,
   calcGSFS,
   calc2DSpiral
