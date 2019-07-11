@@ -18,6 +18,10 @@
     "fibonacci",
     "ratio"
   ],
+  "files": [
+    "src/**/*",
+    "LICENSE/**/*"
+  ],
   "author": "anwarhahjjeffersongeorge@gmail.com",
   "license": "DAUCWL",
   "bugs": {
